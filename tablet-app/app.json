@@ -71,7 +71,8 @@
       ],
       "./plugins/withOfflineTour",
       "expo-asset",
-      "./plugins/withReleaseSigning"
+      "./plugins/withReleaseSigning",
+      "./plugins/withGradleMemory"
     ],
     "experiments": {
       "typedRoutes": true
