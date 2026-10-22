@@ -36,7 +36,7 @@ jobs:
           node-version: 22
           cache: npm
           cache-dependency-path: tablet-app/package-lock.json
-      - run: npm ci
+      - run: npm install --no-audit --no-fund
       - run: npm run typecheck
       - run: npm run lint
       - run: npm test -- --ci
@@ -58,7 +58,7 @@ jobs:
           java-version: 17
       - uses: gradle/actions/setup-gradle@v4
 
-      - run: npm ci
+      - run: npm install --no-audit --no-fund
 
       - name: Restore signing key
         env:
