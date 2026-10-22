@@ -1,0 +1,632 @@
+[
+  {
+    "key": "brand_aboutus",
+    "file": "brand/aboutus.jpg",
+    "w": 2452,
+    "h": 2560,
+    "orig": "src/assets/des/aboutus.jpeg"
+  },
+  {
+    "key": "brand_construction",
+    "file": "brand/construction.png",
+    "w": 512,
+    "h": 512,
+    "orig": "src/assets/des/construction.png"
+  },
+  {
+    "key": "brand_dosti_logo",
+    "file": "brand/dosti_logo.png",
+    "w": 600,
+    "h": 250,
+    "orig": "brand/dosti_logo.png"
+  },
+  {
+    "key": "brand_dosti_new_logo_01",
+    "file": "brand/dosti_new_logo_01.png",
+    "w": 1200,
+    "h": 622,
+    "orig": "src/assets/LogoNew/Dosti NEW Logo-01.png"
+  },
+  {
+    "key": "brand_img_12",
+    "file": "brand/img_12.jpg",
+    "w": 575,
+    "h": 438,
+    "orig": "src/assets/des/img 12.jpeg"
+  },
+  {
+    "key": "brand_img11",
+    "file": "brand/img11.jpg",
+    "w": 600,
+    "h": 522,
+    "orig": "src/assets/des/img11.jpeg"
+  },
+  {
+    "key": "brand_logofinal",
+    "file": "brand/logofinal.png",
+    "w": 1200,
+    "h": 660,
+    "orig": "src/assets/des/Logofinal.png"
+  },
+  {
+    "key": "brand_qr1",
+    "file": "brand/qr1.png",
+    "w": 1200,
+    "h": 1200,
+    "orig": "src/assets/des/qr1.png"
+  },
+  {
+    "key": "brand_qr2",
+    "file": "brand/qr2.png",
+    "w": 1200,
+    "h": 1200,
+    "orig": "src/assets/des/qr2.png"
+  },
+  {
+    "key": "brand_qr3",
+    "file": "brand/qr3.png",
+    "w": 1200,
+    "h": 1200,
+    "orig": "src/assets/des/qr3.png"
+  },
+  {
+    "key": "brand_tree1",
+    "file": "brand/tree1.png",
+    "w": 1200,
+    "h": 971,
+    "orig": "src/assets/des/tree1.png"
+  },
+  {
+    "key": "building_charm_a",
+    "file": "building/charm_a.jpg",
+    "w": 2560,
+    "h": 1440,
+    "orig": "src/assets/Inventory/building/new/CHARM_A.jpg (1).jpeg"
+  },
+  {
+    "key": "building_charm_b",
+    "file": "building/charm_b.jpg",
+    "w": 2560,
+    "h": 1440,
+    "orig": "src/assets/Inventory/building/new/CHARM_B.jpg (1).jpeg"
+  },
+  {
+    "key": "building_charm_c",
+    "file": "building/charm_c.jpg",
+    "w": 2560,
+    "h": 1440,
+    "orig": "src/assets/Inventory/building/new/CHARM_C.jpg (1).jpeg"
+  },
+  {
+    "key": "building_pride_a",
+    "file": "building/pride_a.jpg",
+    "w": 1499,
+    "h": 839,
+    "orig": "src/assets/Inventory/building/new/Pride_A.jpg (2).jpeg"
+  },
+  {
+    "key": "building_pride_b",
+    "file": "building/pride_b.jpg",
+    "w": 1499,
+    "h": 839,
+    "orig": "src/assets/Inventory/building/new/PRIDE_B.jpg (2).jpeg"
+  },
+  {
+    "key": "building_pride_c",
+    "file": "building/pride_c.jpg",
+    "w": 1499,
+    "h": 839,
+    "orig": "src/assets/Inventory/building/new/PRIDE_C.jpg (2).jpeg"
+  },
+  {
+    "key": "building_pride_d",
+    "file": "building/pride_d.jpg",
+    "w": 1499,
+    "h": 839,
+    "orig": "src/assets/Inventory/building/new/PRIDE_D.jpg (2).jpeg"
+  },
+  {
+    "key": "building_seren_a",
+    "file": "building/seren_a.jpg",
+    "w": 2560,
+    "h": 1440,
+    "orig": "src/assets/Inventory/building/new/SEREN_A.jpg (1).jpeg"
+  },
+  {
+    "key": "building_seren_c",
+    "file": "building/seren_c.jpg",
+    "w": 2560,
+    "h": 1440,
+    "orig": "src/assets/Inventory/building/new/SEREN_C.jpg (2).jpeg"
+  },
+  {
+    "key": "clubhouse_dinning",
+    "file": "clubhouse/dinning.jpg",
+    "w": 2560,
+    "h": 1811,
+    "orig": "src/assets/Gallery/ClubhouseAmenities/dinning.png"
+  },
+  {
+    "key": "clubhouse_image10",
+    "file": "clubhouse/image10.jpg",
+    "w": 2560,
+    "h": 1811,
+    "orig": "src/assets/Gallery/ClubhouseAmenities/image10.png"
+  },
+  {
+    "key": "clubhouse_image11",
+    "file": "clubhouse/image11.jpg",
+    "w": 2560,
+    "h": 1811,
+    "orig": "src/assets/Gallery/ClubhouseAmenities/image11.png"
+  },
+  {
+    "key": "clubhouse_image4",
+    "file": "clubhouse/image4.jpg",
+    "w": 2560,
+    "h": 1811,
+    "orig": "src/assets/Gallery/ClubhouseAmenities/image4.png"
+  },
+  {
+    "key": "clubhouse_image5",
+    "file": "clubhouse/image5.jpg",
+    "w": 2560,
+    "h": 1811,
+    "orig": "src/assets/Gallery/ClubhouseAmenities/image5.png"
+  },
+  {
+    "key": "clubhouse_image6",
+    "file": "clubhouse/image6.jpg",
+    "w": 2560,
+    "h": 1811,
+    "orig": "src/assets/Gallery/ClubhouseAmenities/image6.png"
+  },
+  {
+    "key": "clubhouse_image8",
+    "file": "clubhouse/image8.jpg",
+    "w": 2560,
+    "h": 1811,
+    "orig": "src/assets/Gallery/ClubhouseAmenities/image8.png"
+  },
+  {
+    "key": "clubhouse_image9",
+    "file": "clubhouse/image9.jpg",
+    "w": 2560,
+    "h": 1811,
+    "orig": "src/assets/Gallery/ClubhouseAmenities/image9.png"
+  },
+  {
+    "key": "clubhouse_playroom",
+    "file": "clubhouse/playroom.jpg",
+    "w": 2560,
+    "h": 1811,
+    "orig": "src/assets/Gallery/ClubhouseAmenities/playroom.png"
+  },
+  {
+    "key": "clubhouse_playroom2",
+    "file": "clubhouse/playroom2.jpg",
+    "w": 2560,
+    "h": 1811,
+    "orig": "src/assets/Gallery/ClubhouseAmenities/playroom2.png"
+  },
+  {
+    "key": "floor_floor_chram_wing_a_01",
+    "file": "floor/floor_chram_wing_a_01.png",
+    "w": 3200,
+    "h": 2326,
+    "orig": "src/assets/new floor/TYPICAL FLOOR PLAN Chram Wing A-01.png"
+  },
+  {
+    "key": "floor_floor_chram_wing_b_01",
+    "file": "floor/floor_chram_wing_b_01.png",
+    "w": 3200,
+    "h": 2326,
+    "orig": "src/assets/new floor/TYPICAL FLOOR PLAN Chram Wing B-01.png"
+  },
+  {
+    "key": "floor_floor_chram_wing_c_01",
+    "file": "floor/floor_chram_wing_c_01.png",
+    "w": 3200,
+    "h": 2326,
+    "orig": "src/assets/new floor/TYPICAL FLOOR PLAN Chram Wing C-01.png"
+  },
+  {
+    "key": "floor_floor_pride_wing_b_01",
+    "file": "floor/floor_pride_wing_b_01.png",
+    "w": 3200,
+    "h": 2326,
+    "orig": "src/assets/new floor/TYPICAL FLOOR PLAN pride wing B-01.png"
+  },
+  {
+    "key": "floor_floor_pride_wing_c_01",
+    "file": "floor/floor_pride_wing_c_01.png",
+    "w": 3200,
+    "h": 2326,
+    "orig": "src/assets/new floor/TYPICAL FLOOR PLAN pride wing C-01.png"
+  },
+  {
+    "key": "floor_floor_pride_wing_d_01",
+    "file": "floor/floor_pride_wing_d_01.png",
+    "w": 3200,
+    "h": 2326,
+    "orig": "src/assets/new floor/TYPICAL FLOOR PLAN pride wing D-01.png"
+  },
+  {
+    "key": "floor_floor_serene_wing_a_01",
+    "file": "floor/floor_serene_wing_a_01.png",
+    "w": 3200,
+    "h": 2326,
+    "orig": "src/assets/new floor/TYPICAL FLOOR PLAN Serene Wing A-01.png"
+  },
+  {
+    "key": "floor_floor_serene_wing_c_01",
+    "file": "floor/floor_serene_wing_c_01.png",
+    "w": 3200,
+    "h": 2325,
+    "orig": "src/assets/new floor/TYPICAL FLOOR PLAN Serene Wing C-01.png"
+  },
+  {
+    "key": "floor_pridewinga_v03",
+    "file": "floor/pridewinga_v03.png",
+    "w": 3200,
+    "h": 2326,
+    "orig": "src/assets/Inventory/building/PRIDEWINGA_V03.png"
+  },
+  {
+    "key": "gallery_basket_ball_court",
+    "file": "gallery/basket_ball_court.jpg",
+    "w": 2560,
+    "h": 1440,
+    "orig": "src/assets/Gallery/basket_ball_court.jpg"
+  },
+  {
+    "key": "gallery_building_cam_update",
+    "file": "gallery/building_cam_update.jpg",
+    "w": 2560,
+    "h": 2288,
+    "orig": "src/assets/Gallery/BUILDING_CAM_UPDATE.jpg"
+  },
+  {
+    "key": "gallery_closeup_lawn_cam",
+    "file": "gallery/closeup_lawn_cam.jpg",
+    "w": 2560,
+    "h": 1440,
+    "orig": "src/assets/Gallery/CloseUp_Lawn_Cam.jpg"
+  },
+  {
+    "key": "gallery_club_cam",
+    "file": "gallery/club_cam.jpg",
+    "w": 2560,
+    "h": 1653,
+    "orig": "src/assets/Gallery/Club_Cam.jpg"
+  },
+  {
+    "key": "gallery_club_seperator",
+    "file": "gallery/club_seperator.jpg",
+    "w": 2560,
+    "h": 1514,
+    "orig": "src/assets/Gallery/club_seperator.jpg"
+  },
+  {
+    "key": "gallery_day_road_cam",
+    "file": "gallery/day_road_cam.jpg",
+    "w": 2560,
+    "h": 1440,
+    "orig": "src/assets/Gallery/Day_road_cam.jpg"
+  },
+  {
+    "key": "gallery_dosti",
+    "file": "gallery/dosti.jpg",
+    "w": 2560,
+    "h": 1772,
+    "orig": "src/assets/Gallery/Dosti.jpg"
+  },
+  {
+    "key": "gallery_dosti_greater_thane_shot",
+    "file": "gallery/dosti_greater_thane_shot.jpg",
+    "w": 2560,
+    "h": 1769,
+    "orig": "src/assets/Gallery/DOSTI_GREATER_THANE_shot.jpg"
+  },
+  {
+    "key": "gallery_dosti_greater_thane_shot1",
+    "file": "gallery/dosti_greater_thane_shot1.jpg",
+    "w": 2560,
+    "h": 1441,
+    "orig": "src/assets/Gallery/DOSTI_GREATER_THANE_Shot1.jpg"
+  },
+  {
+    "key": "gallery_dosti_greaterthane",
+    "file": "gallery/dosti_greaterthane.jpg",
+    "w": 2560,
+    "h": 1283,
+    "orig": "src/assets/Gallery/Dosti_greaterThane.jpg"
+  },
+  {
+    "key": "gallery_elevationcam_dostithane",
+    "file": "gallery/elevationcam_dostithane.jpg",
+    "w": 2560,
+    "h": 1280,
+    "orig": "src/assets/Gallery/elevationcam_dostithane.jpg"
+  },
+  {
+    "key": "gallery_enterence_gate_cam",
+    "file": "gallery/enterence_gate_cam.jpg",
+    "w": 2560,
+    "h": 1440,
+    "orig": "src/assets/Gallery/Enterence_gate_cam.jpg"
+  },
+  {
+    "key": "gallery_gym",
+    "file": "gallery/gym.jpg",
+    "w": 2560,
+    "h": 1440,
+    "orig": "src/assets/Gallery/Gym.jpg"
+  },
+  {
+    "key": "gallery_kids_front_cam",
+    "file": "gallery/kids_front_cam.jpg",
+    "w": 2560,
+    "h": 1440,
+    "orig": "src/assets/Gallery/KIDS_front_cam.jpg"
+  },
+  {
+    "key": "gallery_lawn_cam",
+    "file": "gallery/lawn_cam.jpg",
+    "w": 2560,
+    "h": 1440,
+    "orig": "src/assets/Gallery/Lawn_cam.jpg"
+  },
+  {
+    "key": "gallery_lawn_cam1",
+    "file": "gallery/lawn_cam1.jpg",
+    "w": 2560,
+    "h": 1440,
+    "orig": "src/assets/Gallery/Lawn_cam1.jpg"
+  },
+  {
+    "key": "gallery_opengym_cam",
+    "file": "gallery/opengym_cam.jpg",
+    "w": 2560,
+    "h": 1440,
+    "orig": "src/assets/Gallery/OpenGym_Cam.jpg"
+  },
+  {
+    "key": "gallery_poolcam_dostigreaterthane",
+    "file": "gallery/poolcam_dostigreaterthane.jpg",
+    "w": 2560,
+    "h": 2418,
+    "orig": "src/assets/Gallery/Poolcam_DostiGreaterThane.jpg"
+  },
+  {
+    "key": "gallery_retail_cam",
+    "file": "gallery/retail_cam.jpg",
+    "w": 2560,
+    "h": 1440,
+    "orig": "src/assets/Gallery/Retail_cam.jpg"
+  },
+  {
+    "key": "inventory_pride12",
+    "file": "inventory/pride12.png",
+    "w": 1080,
+    "h": 566,
+    "orig": "src/assets/Inventory/floor/pride12.png"
+  },
+  {
+    "key": "inventory_projectdetails4",
+    "file": "inventory/projectdetails4.jpg",
+    "w": 2560,
+    "h": 1429,
+    "orig": "src/assets/Inventory/projectdetails4.jpeg"
+  },
+  {
+    "key": "location_map_all",
+    "file": "location/map_all.png",
+    "w": 2560,
+    "h": 1440,
+    "orig": "src/assets/Location1/map_for animation_All.png"
+  },
+  {
+    "key": "location_map_hospital",
+    "file": "location/map_hospital.png",
+    "w": 2560,
+    "h": 1440,
+    "orig": "src/assets/Location1/map_for animation_Hospital.png"
+  },
+  {
+    "key": "location_map_jetty",
+    "file": "location/map_jetty.png",
+    "w": 2560,
+    "h": 1440,
+    "orig": "src/assets/Location1/map_for animation_Jetty.png"
+  },
+  {
+    "key": "location_map_mall",
+    "file": "location/map_mall.png",
+    "w": 2560,
+    "h": 1440,
+    "orig": "src/assets/Location1/map_for animation_Mall.png"
+  },
+  {
+    "key": "location_map_metro",
+    "file": "location/map_metro.png",
+    "w": 2560,
+    "h": 1440,
+    "orig": "src/assets/Location1/map_for animation_Metro.png"
+  },
+  {
+    "key": "location_map_railway_station",
+    "file": "location/map_railway_station.png",
+    "w": 2560,
+    "h": 1440,
+    "orig": "src/assets/Location1/map_for animation_RAILWAY STATION.png"
+  },
+  {
+    "key": "location_map_school_college",
+    "file": "location/map_school_college.png",
+    "w": 2560,
+    "h": 1440,
+    "orig": "src/assets/Location1/map_for animation_SCHOOL ,CoLLeGE.png"
+  },
+  {
+    "key": "location_map_temple",
+    "file": "location/map_temple.png",
+    "w": 2560,
+    "h": 1440,
+    "orig": "src/assets/Location1/map_for animation_Temple.png"
+  },
+  {
+    "key": "location_map_water_park",
+    "file": "location/map_water_park.png",
+    "w": 2560,
+    "h": 1440,
+    "orig": "src/assets/Location1/map_for animation_Water Park.png"
+  },
+  {
+    "key": "master_masterplan1",
+    "file": "master/masterplan1.png",
+    "w": 1080,
+    "h": 766,
+    "orig": "src/assets/master/masterplan1.png"
+  },
+  {
+    "key": "master_masterplan2",
+    "file": "master/masterplan2.png",
+    "w": 1080,
+    "h": 774,
+    "orig": "src/assets/master/masterplan2.png"
+  },
+  {
+    "key": "tieup_apollo_clinic_01",
+    "file": "tieup/apollo_clinic_01.jpg",
+    "w": 1366,
+    "h": 1600,
+    "orig": "src/assets/Tie-Up/Apollo_Clinic-01.jpg"
+  },
+  {
+    "key": "tieup_badminton_01",
+    "file": "tieup/badminton_01.jpg",
+    "w": 1366,
+    "h": 1600,
+    "orig": "src/assets/Tie-Up/BADMINTON-01.jpg"
+  },
+  {
+    "key": "tieup_ballroom_studio_01",
+    "file": "tieup/ballroom_studio_01.jpg",
+    "w": 1366,
+    "h": 1600,
+    "orig": "src/assets/Tie-Up/Ballroom_Studio-01.jpg"
+  },
+  {
+    "key": "tieup_cricket_01",
+    "file": "tieup/cricket_01.jpg",
+    "w": 1366,
+    "h": 1600,
+    "orig": "src/assets/Tie-Up/Cricket-01.jpg"
+  },
+  {
+    "key": "tieup_dosti_school_01",
+    "file": "tieup/dosti_school_01.jpg",
+    "w": 1366,
+    "h": 1600,
+    "orig": "src/assets/Tie-Up/Dosti_School-01.jpg"
+  },
+  {
+    "key": "tieup_football_01",
+    "file": "tieup/football_01.jpg",
+    "w": 1366,
+    "h": 1600,
+    "orig": "src/assets/Tie-Up/Football-01.jpg"
+  },
+  {
+    "key": "tieup_music_01",
+    "file": "tieup/music_01.jpg",
+    "w": 1366,
+    "h": 1600,
+    "orig": "src/assets/Tie-Up/Music-01.jpg"
+  },
+  {
+    "key": "tieup_swimming_01",
+    "file": "tieup/swimming_01.jpg",
+    "w": 1366,
+    "h": 1600,
+    "orig": "src/assets/Tie-Up/Swimming-01.jpg"
+  },
+  {
+    "key": "tieup_tennis_01",
+    "file": "tieup/tennis_01.jpg",
+    "w": 1366,
+    "h": 1600,
+    "orig": "src/assets/Tie-Up/Tennis-01.jpg"
+  },
+  {
+    "key": "tieup_yoska_01",
+    "file": "tieup/yoska_01.jpg",
+    "w": 1366,
+    "h": 1600,
+    "orig": "src/assets/Tie-Up/YOSKA-01.jpg"
+  },
+  {
+    "key": "unit_pride_wing_a_sideunit",
+    "file": "unit/pride_wing_a_sideunit.png",
+    "w": 209,
+    "h": 228,
+    "orig": "src/assets/Inventory/unit/pride_wing_A_sideUnit.png"
+  },
+  {
+    "key": "unit_unit_1bhk_charm_wing_a_01",
+    "file": "unit/unit_1bhk_charm_wing_a_01.png",
+    "w": 3200,
+    "h": 2326,
+    "orig": "src/assets/new unit imges/1 BHK UNIT PLAN Charm wing A-01.png"
+  },
+  {
+    "key": "unit_unit_1bhk_charm_wing_a0",
+    "file": "unit/unit_1bhk_charm_wing_a0.png",
+    "w": 3200,
+    "h": 2326,
+    "orig": "src/assets/new unit imges/1 BHK UNIT PLAN Charm wing A0.png"
+  },
+  {
+    "key": "unit_unit_1bhk_charm_wing_b_c_01",
+    "file": "unit/unit_1bhk_charm_wing_b_c_01.png",
+    "w": 3200,
+    "h": 2326,
+    "orig": "src/assets/new unit imges/1 BHK UNIT PLAN Charm wing B,C-01.png"
+  },
+  {
+    "key": "unit_unit_1bhk_charm_wing_b_c0_01",
+    "file": "unit/unit_1bhk_charm_wing_b_c0_01.png",
+    "w": 3200,
+    "h": 2326,
+    "orig": "src/assets/new unit imges/1 BHK UNIT PLAN Charm wing B,C0-01.png"
+  },
+  {
+    "key": "unit_unit_1bhk_pride_wing_a_d_01",
+    "file": "unit/unit_1bhk_pride_wing_a_d_01.png",
+    "w": 3200,
+    "h": 2326,
+    "orig": "src/assets/new unit imges/1 BHK UNIT PLAN pride wing A,D-01.png"
+  },
+  {
+    "key": "unit_unit_1bhk_pride_wing_b_c_01",
+    "file": "unit/unit_1bhk_pride_wing_b_c_01.png",
+    "w": 3200,
+    "h": 2326,
+    "orig": "src/assets/new unit imges/1 BHK UNIT PLAN pride wing B,C-01.png"
+  },
+  {
+    "key": "unit_unit_1bhk_serene_wing_a_c_01",
+    "file": "unit/unit_1bhk_serene_wing_a_c_01.png",
+    "w": 3200,
+    "h": 2326,
+    "orig": "src/assets/new unit imges/1 BHK UNIT PLAN serene wing A,C-01.png"
+  },
+  {
+    "key": "unit_unit_1bhk_serene_wing_a_c0",
+    "file": "unit/unit_1bhk_serene_wing_a_c0.png",
+    "w": 3200,
+    "h": 2326,
+    "orig": "src/assets/new unit imges/1 BHK UNIT PLAN serene wing A,C0.png"
+  }
+]

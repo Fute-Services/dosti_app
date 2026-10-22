@@ -1,0 +1,188 @@
+@tailwind base;
+@tailwind utilities;
+@tailwind components;
+
+@keyframes float1 {
+
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+
+  /* start at 0px (down) */
+  50% {
+    transform: translateY(-6px);
+  }
+
+  /* middle at -5px (up) */
+}
+
+.animate-float1 {
+  animation: float1 3s ease-in-out infinite;
+}
+
+/* Thin scrollbar */
+.custom-scroll-glass::-webkit-scrollbar {
+  width: 6px;
+  /* thinner */
+  height: 6px;
+}
+
+/* Glass thumb (thin style)     rgba(255,255,255,0.08)*/
+.custom-scroll-glass::-webkit-scrollbar-thumb {
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.801), rgba(255, 255, 255, 0.05));
+  backdrop-filter: blur(4px);
+  border-radius: 12px;
+  border: 1px solid rgba(224, 220, 220, 0.867);
+}
+
+/* Optional hover for better feel */
+.custom-scroll-glass::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.619), rgba(255, 255, 255, 0.15));
+}
+
+
+/* For modern browsers */
+.text-container::-webkit-scrollbar {
+  display: none;
+  /* Chrome, Safari, Opera */
+}
+
+.text-container {
+  -ms-overflow-style: none;
+  /* IE 10+ */
+  scrollbar-width: none;
+  /* Firefox */
+}
+
+
+/* right panel */
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fadeIn {
+  animation: fadeIn 0.3s ease-out;
+}
+
+
+/* Pop-in animation when SVG  first rendered */
+@keyframes icon-pop {
+  0% {
+    opacity: 0;
+    transform: translate(-50%, -50%) scale(0);
+  }
+
+  50% {
+    opacity: 0.5;
+    transform: translate(-50%, -50%) scale(1.1);
+  }
+
+  100% {
+    opacity: 1;
+    transform: translate(-50%, -50%) scale(1);
+  }
+}
+
+
+/* Skeleton loading shimmer animation for location page */
+@keyframes shimmer {
+  0% {
+    background-position: -200%, 0;
+  }
+
+  100% {
+    background-position: 200%, 0;
+  }
+}
+
+.animate-shimmer {
+  animation: shimmer 1.5s infinite;
+}
+
+
+
+
+
+
+/* Thin scrollbar */
+.thin-scrollbar {
+  scrollbar-width: thin;
+  /* Firefox */
+  scrollbar-color: rgba(149, 144, 144, 0.819) transparent;
+}
+
+/* Chrome, Edge, Safari */
+.thin-scrollbar::-webkit-scrollbar {
+  width: 5px;
+}
+
+.thin-scrollbar::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.thin-scrollbar::-webkit-scrollbar-thumb {
+  background-color: rgba(189, 183, 183, 0.922);
+  border-radius: 10px;
+}
+
+
+@keyframes float {
+  0% {
+    transform: translateY(0px);
+  }
+
+  50% {
+    transform: translateY(-4px);
+  }
+
+  100% {
+    transform: translateY(0px);
+  }
+}
+
+.animate-float {
+  animation: float 2.5s ease-in-out infinite;
+}
+
+
+
+@keyframes glow {
+
+  0%,
+  100% {
+    filter: drop-shadow(0 0 4px rgba(239, 68, 68, 0.4));
+  }
+
+  50% {
+    filter: drop-shadow(0 0 10px rgba(239, 68, 68, 0.9));
+  }
+}
+
+.animate-glow {
+  animation: glow 2s ease-in-out infinite;
+}
+
+
+
+
+.blink-effect {
+    animation: pulse 1.5s infinite;
+    background: #f0f0f0; /* Light gray placeholder */
+    border-radius: 8px;
+}
+
+@keyframes pulse {
+    0% { opacity: 1; }
+    50% { opacity: 0.4; }
+    100% { opacity: 1; }
+}

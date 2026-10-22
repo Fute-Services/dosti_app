@@ -1,0 +1,8 @@
+node_modules/
+.DS_Store
+Thumbs.db
+*.log
+# signing keys never go in git
+*.jks
+*.keystore
+keystore.properties
